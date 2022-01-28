@@ -1,0 +1,4 @@
+A simple mod that prevents Larva from being accidentally broken.
+
+Changelog:
+ - 1.0.0.0: Release.
