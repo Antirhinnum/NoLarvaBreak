@@ -1,6 +1,6 @@
 displayName = No Larva Break
 author = Snek
-version = 1.0.0.0
+version = 1.0.0.1
 homepage = https://forums.terraria.org/index.php?threads/no-larva-break.110673/
 hideCode = false
 hideResources = false
