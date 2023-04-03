@@ -1,4 +1,1 @@
-A simple mod that prevents Larva from being accidentally broken.
-
-Changelog:
- - 1.0.0.0: Release.
+No Larva Break does exactly what it says it does: Queen Bee larva can no longer be broken by stray projectiles or weapons. Players must actually hit the larva with a pickaxe (or break the blocks under it) to summon Queen Bee.

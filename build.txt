@@ -1,9 +1,9 @@
 displayName = No Larva Break
 author = Snek
-version = 1.0.0.0
-homepage = https://forums.terraria.org/index.php?threads/no-larva-break.110673/
-hideCode = false
-hideResources = false
-includeSource = true
-buildIgnore = build.txt, ./*, bin/*, obj/*, Properties/*, .gitignore, LICENSE, README.md, *.pdn
+version = 1.0.0.1
+homepage = https://forums.terraria.org/index.php?threads/110673/
+hideCode = true
+hideResources = true
+includeSource = false
+buildIgnore = LICENSE, README.md, *.pdn
 includePDB = true
